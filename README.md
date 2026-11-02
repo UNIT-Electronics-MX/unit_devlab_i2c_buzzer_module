@@ -1,7 +1,5 @@
 # DevLab I2C Buzzer Module
 
-**MPN: UE0175**
-
 The DevLab I2C Buzzer Module is an I2C buzzer module in the UNIT Electronics DevLab family.
 
 <div align="center">
