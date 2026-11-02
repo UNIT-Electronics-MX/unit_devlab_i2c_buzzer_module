@@ -1,12 +1,32 @@
-# DevLab I2C Buzzer Module
+# DevLab I2C Buzzer Module Hardware
 
-MPN: **UE0175**
+## Hardware Scope
 
-## Board Views
+This page records the available hardware files for **DevLab I2C Buzzer Module** (MPN **UE0175**). Values not supported by a product-specific drawing or schematic remain unspecified.
+
+## Power Tree
+
+A dedicated board-level power-tree drawing is not included in the available product-specific files.
+
+## Block Diagram
+
+A dedicated functional block diagram is not included in the available product-specific files.
+
+## Naming Rules
+
+- Product name: **DevLab I2C Buzzer Module**.
+- Product family: **UNIT DevLab ecosystem**.
+- MPN: **UE0175**.
+- Existing source filenames retain their published names and revisions.
+- Generated Product Reference: `unit_product_reference_v_1_1_0_ue0175_devlab_i2c_buzzer_module.pdf`.
+
+## Hardware
 
 ![DevLab I2C Buzzer Module top view](resources/unit_top_v_1_0_0_ue0175_i2c_buzzer_module_3d.png)
 
 ![DevLab I2C Buzzer Module bottom view](resources/unit_btm_v_1_0_0_ue0175_i2c_buzzer_module_3d.png)
+
+A product-specific electrical schematic is not included in the available files.
 
 ## Pinout
 
@@ -15,3 +35,30 @@ A product-specific pinout drawing was not included in the selected source packag
 Board renders show the supplied layout. Confirm electrical limits, connector
 orientation, and mechanical tolerances against product-specific drawings before
 using the board in a final assembly.
+
+## Dimensions
+
+A controlled board-dimension drawing is not included in the available product-specific files.
+
+## Topology
+
+A separate board-topology drawing is not included in the available product-specific files.
+
+## Pin & Connector Layout
+
+A verified product-specific connector map is not included in the available source package. Do not infer electrical pin assignments from the board renders.
+
+## Functional Description
+
+The DevLab I2C Buzzer Module is an I2C buzzer module in the UNIT Electronics DevLab family.
+
+## Applications
+
+- Audible status and alert output from an I2C host.
+- User feedback in DevLab control panels and prototypes.
+- I2C actuator integration experiments.
+
+## References
+
+- [Product Reference](../docs/hardware/unit_product_reference_v_1_1_0_ue0175_devlab_i2c_buzzer_module.pdf)
+- [Product Reference source](../tools/product-reference/README.md)
