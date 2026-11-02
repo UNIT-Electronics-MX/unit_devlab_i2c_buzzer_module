@@ -29,7 +29,9 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ![DevLab I2C Buzzer Module bottom view](resources/unit_btm_v_1_0_0_ue0175_i2c_buzzer_module_3d.png)
 
-A product-specific electrical schematic is not included in the available files.
+### Schematic
+
+[UE0175 Rev 1.0.0 schematic](unit_sch__v_1_0_0_ue0175_i2c_buzzer_module.pdf)
 
 ## Pinout
 
@@ -65,3 +67,4 @@ The DevLab I2C Buzzer Module is an I2C buzzer module in the UNIT Electronics Dev
 
 - [Product Reference](../docs/hardware/unit_product_reference_v_1_1_0_ue0175_devlab_i2c_buzzer_module.pdf)
 - [Product Reference source](../tools/product-reference/README.md)
+- [Electrical schematic](unit_sch__v_1_0_0_ue0175_i2c_buzzer_module.pdf)
