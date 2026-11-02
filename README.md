@@ -35,11 +35,12 @@ The DevLab I2C Buzzer Module is an I2C buzzer module in the UNIT Electronics Dev
 
 ## Resources
 
+- [Schematic diagram](hardware/unit_sch__v_1_0_0_ue0175_i2c_buzzer_module.pdf)
 - [Hardware files and board views](hardware/README.md)
 - [Product reference source](tools/product-reference/README.md)
 - [Generic I2C scanner examples](software/README.md)
 
-The supplied source package does not include a product-specific schematic. Check the product-specific pinout or schematic for wiring and electrical limits.
+The [UE0175 Rev 1.0.0 schematic](hardware/unit_sch__v_1_0_0_ue0175_i2c_buzzer_module.pdf) is available. Confirm it matches the physical board before using its signal or power connections.
 
 ## 📝 License
 
