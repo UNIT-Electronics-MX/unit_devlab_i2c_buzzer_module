@@ -35,19 +35,18 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ## Pinout
 
-A product-specific pinout drawing was not included in the selected source package.
-
-Board renders show the supplied layout. Confirm electrical limits, connector
-orientation, and mechanical tolerances against product-specific drawings before
-using the board in a final assembly.
+- [English pinout](./unit_pinout_v_1_0_0_ue0175_i2c_buzzer_module_en.pdf)
+- [Spanish pinout](./unit_pinout_v_1_0_0_ue0175_i2c_buzzer_module_es.pdf)
 
 ## Dimensions
 
-A controlled board-dimension drawing is not included in the available product-specific files.
+- [Board dimensions preview](./resources/unit_dimensions_v_1_0_0_ue0175_i2c_buzzer_module.png)
+- [Board dimensions PDF](./unit_dimensions_v_1_0_0_ue0175_i2c_buzzer_module.pdf)
 
 ## Topology
 
-A separate board-topology drawing is not included in the available product-specific files.
+- [Board topology](./resources/unit_topology_v_1_0_0_ue0175_i2c_buzzer_module.png)
+
 
 ## Pin & Connector Layout
 
