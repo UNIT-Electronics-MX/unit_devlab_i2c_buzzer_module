@@ -46,7 +46,7 @@ A dedicated functional block diagram is not included in the available product-sp
 ## Topology
 
 - [Board topology](./resources/unit_topology_v_1_0_0_ue0175_i2c_buzzer_module.png)
-
+- [STEP model](./mechanics/unit_3d_v_1_0_0_ue0175_i2c_buzzer_module.step)
 
 ## Pin & Connector Layout
 
